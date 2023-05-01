@@ -1,0 +1,20 @@
+[28-Apr-2023 22:59:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home3/jlc3t6px/itrax_2032/system/helpers/index.php:926
+Stack trace:
+#0 {main}
+  thrown in /home3/jlc3t6px/itrax_2032/system/helpers/index.php on line 926
+[30-Apr-2023 01:14:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home3/jlc3t6px/itrax_2032/system/helpers/index.php:926
+Stack trace:
+#0 {main}
+  thrown in /home3/jlc3t6px/itrax_2032/system/helpers/index.php on line 926
+[30-Apr-2023 01:20:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home3/jlc3t6px/itrax_2032/system/helpers/index.php:926
+Stack trace:
+#0 {main}
+  thrown in /home3/jlc3t6px/itrax_2032/system/helpers/index.php on line 926
+[30-Apr-2023 01:20:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home3/jlc3t6px/itrax_2032/system/helpers/index.php:926
+Stack trace:
+#0 {main}
+  thrown in /home3/jlc3t6px/itrax_2032/system/helpers/index.php on line 926
+[30-Apr-2023 01:21:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home3/jlc3t6px/itrax_2032/system/helpers/index.php:926
+Stack trace:
+#0 {main}
+  thrown in /home3/jlc3t6px/itrax_2032/system/helpers/index.php on line 926

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: http://itraxacademy.com/sitemap.xml
+Sitemap: http://itraxacademy.com/report.php?sitemap.xml
+Sitemap: http://itraxacademy.com/abby.php?sitemap.xml

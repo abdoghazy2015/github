@@ -1,0 +1,4 @@
+[22-Apr-2023 03:54:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home3/jlc3t6px/itrax_2032/update_pack/v5.1/index.php:926
+Stack trace:
+#0 {main}
+  thrown in /home3/jlc3t6px/itrax_2032/update_pack/v5.1/index.php on line 926
